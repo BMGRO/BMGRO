@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-NASA-ticket.png
+![](https://github.com/BMGRO/BMGRO/blob/main/NASA-ticket.png?raw=true)
 
 <!--
 **BMGRO/BMGRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
